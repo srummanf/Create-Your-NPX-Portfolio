@@ -5,6 +5,7 @@ function logDetails() {
     const twitterLink = "https://twitter.com/srummanf";
     const linkedinLink = "https://www.linkedin.com/in/srummanf/";
     const websiteLink = "https://bento.me/srummanf";
+    const websiteLink2 = "https://bento.me/srummanf";
 
     // Create a colorful box using ANSI escape codes
     const colorfulBox = `  
