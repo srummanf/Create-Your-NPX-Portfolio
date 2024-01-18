@@ -1,6 +1,6 @@
 # Creating Your Own NPX Portfolio Command
 
-Creating your own `npx` portfoliocommand can be a fun and useful project! The `npx` command allows you to run Node.js-based packages without having to globally install them. Here's a step-by-step guide to creating your own `npx` introduction command:
+Creating your own `npx` portfoliocommand can be a fun and useful project! The `npx` command allows you to run Node.js-based packages without having to globally install them. Here's a step-by-step guide to creating your own `npx` portfolio command:
 
 ## Step 1: Choose a Package Name
 
